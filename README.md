@@ -18,7 +18,6 @@ nodejs/
 ## 🚀 How to Run
 
 ### 1. Build the Docker Image
-```bash
 docker build -t hello-world-nodejs .
 docker run -p 3000:3000 hello-world-nodejs
 Open your browser and navigate to: http://localhost:3000
