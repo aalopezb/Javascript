@@ -1,9 +1,8 @@
-{
-    "name": "hello-world-nodejs",
+  {
+    "name": "hello-javascript",
     "version": "1.0.0",
-    "main": "app.js",
-    "dependencies": {
-      "express": "^4.18.4"
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
     }
   }
-  
